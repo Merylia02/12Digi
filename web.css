@@ -1,0 +1,11 @@
+.nav {
+    background-color: #457b9d;
+    position:fixed;
+    padding: 5px;
+    width: fit;
+}
+footer {
+    background-color: #457b9d;
+    font-size: 28px;
+    padding:20px;
+}
