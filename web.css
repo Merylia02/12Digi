@@ -9,3 +9,13 @@ footer {
     font-size: 28px;
     padding:20px;
 }
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: white;
+    text-shadow:2px 2px 4px black;
+    font-size: 50px;
+}
+p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 36px;
+  
